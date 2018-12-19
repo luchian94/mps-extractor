@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mercurial-time-219207",
+  "private_key_id": "514ad52e914002067b58ee17b70a22948d68f490",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCxMbjkfJehKozH\nQsybS5FtC254Se5P6Po9wwsWP9PTX+3eIRalxd4EQLxnsbYRqTwuh6RjRRcrgEgq\nz815kbHxxEwGxPgTga4fQA2u4pJ01zCE8Tjz+a4TAxeeCqidpvt03N3d3I8KB62t\nTxtpVXDXBOthHpqUd9xpyuxI4ohtvSfP9zcMp2XFu+++ojPNuY4tjGaviHdZdRny\nGd8z6x+vJwmJJ3UikseN20mXjPzqgY1HWaWqFzbgp+xK8hP7ZUtiRRqnBYNeUrsk\nyDgp6cXUnIecMVPTCrTMFBcPzajcv9w2SOKPoJb9GprPY2JZ+HX7sqAldcUq6riT\nJeFtFCifAgMBAAECgf9wtK+7UC8iKW5h+psqLBF+ypv5kbeDcde5xoBxe9JrIG6s\nW1+MZyRQkDHxGELhTkPOqiMQVrc7dDJzCLopbq1AmnBr3d1Ciw8LJt2NNOWdwUJF\n99PCBjjdiZn8FyDT0OJ18rEsl/MOQ3606HGxuNGNSBPE3TJ1knJ1gsfIPvmIJ+Pt\nzmLBq7xR6UQ5/FbTHU922jx2TCtXg1jRrUNMKPWwUbzc5pfa/nCVTQZPLYq+sFZz\n+zYTmO+pNP1CnSEKGJaQ7fMxNvKqIg4kct7adXKn+ATC0RTneJrwqjlrBQQYb4sn\n+Et96X2aCCBnmtoDpyjBymM44w7gMMqHsx704V0CgYEA4cqe5UTUMoFMyUg2ONc5\nVyFyGFCnyLM4xxzJfPDpTqWWGxs66ZBNYxVLhK+M2uvx0mGl+Md6/i58uekkvcRF\ntj25iXNmSOnJEXJVyf1eiUNiT8pJJuYbcqQ5rYfWNySbhXqsxAIk5fSNaWd0CSSO\nyHHFmMG7rv81fNXGkM58pRUCgYEAyOakEw6+xkdZAQnO7FNUxK4KiAvDIO+UEVQY\n96hFRuzUIDCncHEeaRDx3A2tCsugocgdia7EjbXfwklFhOCQDa6bAF8fI5Y2QT1Q\nm9DXRlf5fBwOrcHhGBvmNP7OJdAP8bVMzWJyjFP64qLJ/+6ojbaMo0Z47OGv/hQe\nGEzWa+MCgYBSjv7Yf/lC2kpUUsYYtIFv3XfVcjBXT0jUbS8zMvdr3VnsYWGCI1RY\nhWHOi03qglkyfqfsNiw/oonShG/9vzVqNFmR65Mb1/fAHFlH+Q/HCs94s1NaGMsy\neN/qFn/6O7Vt8fQX21zYhDnsr3obGbXnjsocV8Ijc4eANL5dFlM3HQKBgHOlwUFv\nNYayP5wHZ2RHO/7UKR/TlYn6IAQxowW9idOgNSQqndhuZZEZvgBspvYV7evzZH2D\na4Yf8iTHRQuOsZ4Oqw91slkr+SNpBmQLvkCyF93H0PNZLhhQxx4up8DAms0LDqEU\nUNhS55NbHmkDm2eodCDxSl8iM8tRDVnzsWL9AoGALrdLY8OGoj0/54oCSLC/wrre\nhv26QuVNBAjca3BzoSbJVgn09rKSBUTX2a3XVE9HHKnlBUdRPct9PUU7EDPkgBH2\nP55HtXp550xc1pzZQOl9G64CRdB3expa0ROe/1DOwv2qdJs+Oyc/BWnJjCTBF4iE\nazN8kPBAvD9zkdAtLnE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "canali-dwh@mercurial-time-219207.iam.gserviceaccount.com",
+  "client_id": "110747869882947085449",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/canali-dwh%40mercurial-time-219207.iam.gserviceaccount.com"
+}
